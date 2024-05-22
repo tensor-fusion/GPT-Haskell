@@ -23,4 +23,4 @@ cabal test
 (You'll first need to download GPT-2 weights, tokenizer, and hyperparams into `/models`)
 
 ## TODO
-- [ ] Merge changes with tensorflow models for actual text generation
+- [ ] Merge changes containing tensorflow inference for actual text generation
