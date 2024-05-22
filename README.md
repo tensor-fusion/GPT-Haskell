@@ -7,11 +7,10 @@ Highly inspired by:
 - [karpathy/minGPT](https://github.com/karpathy/mingpt).
 - [picoGPT](https://github.com/jaymody/picoGPT).
 
-Code contains:
+Structure is similar to [picoGPT](https://github.com/jaymody/picoGPT). Code contains:
 - Translation of OpenAI's BPE Tokenizer
 - Decoder-only transformer
 - GPT-2 generation
-
 
 You can run tests with
 
