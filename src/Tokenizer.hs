@@ -1,7 +1,7 @@
 {-# LANGUAGE OverloadedStrings #-}
 {-# OPTIONS_GHC -Wno-unrecognised-pragmas #-}
 
-module Encoder where
+module Tokenizer where
 
 import Control.Monad.State
 import Data.Aeson

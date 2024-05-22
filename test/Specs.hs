@@ -6,7 +6,7 @@ import qualified Data.Map.Strict as Map
 import Data.Text (Text)
 import qualified Data.Text as T
 import Debug.Trace
-import Encoder
+import Tokenizer
 import Model
 import Numeric.LinearAlgebra
 import System.FilePath ((</>))
